@@ -23,6 +23,8 @@ own setup and stuck.
 > [!IMPORTANT]
 > This is a community-maintained, version-specific guide. It is not an
 > official ProxmoxMCP-Plus support document or an independent security audit.
+> Based on the original community guide by [`nroam`](https://github.com/nroam),
+> reviewed and maintained by the ProxmoxMCP-Plus maintainer.
 > Review the upstream
 > [Operator Guide](https://github.com/RekklesNA/ProxmoxMCP-Plus/blob/main/docs/wiki/Operator%20Guide.md)
 > and
